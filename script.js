@@ -12,7 +12,7 @@ function move(){
     var left;
     var top;
     var wh;
-    // var right;
+    top = Math.random()*300;
     left = Math.random()*300;
     right = Math.random()*300;
     wh = ((Math.random()*400)+100);
